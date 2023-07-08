@@ -5,6 +5,7 @@ public class Rough {
 String s="23";
 int n=s.charAt(0);
 System.out.println(n);
+		System.out.println("jenkin");
 	}
 
 }
